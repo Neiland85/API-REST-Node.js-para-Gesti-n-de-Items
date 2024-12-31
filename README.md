@@ -1,2 +1,10 @@
-# API-REST-Node.js-para-Gesti-n-de-Items
-Esta API REST desarrollada en Node.js permite la gestión de items, proporcionando operaciones CRUD (Crear, Leer, Actualizar y Eliminar). Utiliza MongoDB como base de datos y Express.js para manejar las rutas y controladores.
+# API REST Node.js
+
+Este proyecto es una API RESTful para la gestión de productos, construida con Node.js, Express y MongoDB.
+
+## Instalación
+1. Clona el repositorio.
+2. Instala dependencias:
+   ```bash
+   npm install
+
